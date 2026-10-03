@@ -1,0 +1,6 @@
+{
+  "name": "Aahaar - Diet & Nutrition Tracker",
+  "description": "Accurate, personalized diet and nutrition tracking with Indian food database, meal photo scanner, calorie deficit calculator, and macro targets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
